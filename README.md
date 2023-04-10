@@ -16,7 +16,7 @@ We defined three functions here:
 4) The last block of code allows you to execute the model from the command line, with two arguments, a valid stock ticker and the number of days to predict.
 
 # Build Container Image for FastAPI Applications
-Stock Prediction as a RESTful API using FastAPI to AWS EC2
+Build a container image for your FastAPI application.
 
 curl \
 --header "Content-Type: application/json" \
