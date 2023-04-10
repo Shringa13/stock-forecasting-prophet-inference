@@ -1,4 +1,7 @@
-# stock-predictor
+
+# Building and Deploying a Stock Prediction Model
+
+# Build Container Image for FastAPI Applications
 Stock Prediction as a RESTful API using FastAPI to AWS EC2
 
 curl \
