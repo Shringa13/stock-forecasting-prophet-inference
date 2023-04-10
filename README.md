@@ -18,11 +18,11 @@ We defined three functions here:
 # Build Container Image for FastAPI Applications
 Build a container image for your FastAPI application.
 
-curl \
+`curl \
 --header "Content-Type: application/json" \
 --request POST \
 --data '{"ticker":"MSFT", "days":7}' \
-http://54.243.8.157:8000/predict
+http://54.243.8.157:8000/predict`
 
 
 # Acknowledgement & Reference
