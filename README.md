@@ -23,3 +23,10 @@ curl \
 --request POST \
 --data '{"ticker":"MSFT", "days":7}' \
 http://54.243.8.157:8000/predict
+
+
+# Acknowledgement & Reference
+
+- Adapted from [Deploying and Hosting a Machine Learning Model with FastAPI and Heroku](https://testdriven.io/blog/fastapi-machine-learning/)
+- To learn about API in general, [Postman Learning Center](https://learning.postman.com/docs/getting-started/introduction/) is a good starting point.
+- [Machine Learning Operations (MLOps): Overview, Definition, and Architecture (July 2022)](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
